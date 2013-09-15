@@ -1,0 +1,19 @@
+C:\Users\Curtis\git\COSC-3F00\gen\com\example\helloworld\R.java \
+ : C:\Users\Curtis\git\COSC-3F00\res\drawable-hdpi\ic_launcher.png \
+C:\Users\Curtis\git\COSC-3F00\res\drawable-mdpi\ic_launcher.png \
+C:\Users\Curtis\git\COSC-3F00\res\drawable-xhdpi\ic_launcher.png \
+C:\Users\Curtis\git\COSC-3F00\res\drawable-xxhdpi\ic_launcher.png \
+C:\Users\Curtis\git\COSC-3F00\res\layout\activity_main.xml \
+C:\Users\Curtis\git\COSC-3F00\res\menu\main.xml \
+C:\Users\Curtis\git\COSC-3F00\res\values\dimens.xml \
+C:\Users\Curtis\git\COSC-3F00\res\values\strings.xml \
+C:\Users\Curtis\git\COSC-3F00\res\values\styles.xml \
+C:\Users\Curtis\git\COSC-3F00\res\values-sw600dp\dimens.xml \
+C:\Users\Curtis\git\COSC-3F00\res\values-sw720dp-land\dimens.xml \
+C:\Users\Curtis\git\COSC-3F00\res\values-v11\styles.xml \
+C:\Users\Curtis\git\COSC-3F00\res\values-v14\styles.xml \
+C:\Users\Curtis\git\COSC-3F00\bin\res\drawable-hdpi\ic_launcher.png \
+C:\Users\Curtis\git\COSC-3F00\bin\res\drawable-mdpi\ic_launcher.png \
+C:\Users\Curtis\git\COSC-3F00\bin\res\drawable-xhdpi\ic_launcher.png \
+C:\Users\Curtis\git\COSC-3F00\bin\res\drawable-xxhdpi\ic_launcher.png \
+C:\Users\Curtis\git\COSC-3F00\bin\AndroidManifest.xml \
